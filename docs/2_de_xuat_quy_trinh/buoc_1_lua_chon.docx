@@ -1,0 +1,37 @@
+1.Phần mềm mới hay không?
+Đây là một phần mềm mới, chưa có hệ thống quản lý thu phí hiện tại. Hiện tại, Ban quản trị đang sử dụng phương thức thủ công với sự hỗ trợ của Excel, nhưng hiệu quả chưa cao.
+
+
+2. Phạm vi áp dụng:
+Phần mềm nội bộ, chỉ dành riêng cho Ban quản trị chung cư BlueMoon.
+Mục tiêu là thay đổi cách thức quản lý thông tin thu phí và thông tin hộ dân cư tại chung cư.
+Các chức năng chính gồm:
+Quản lý các khoản thu phí định kỳ và tự nguyện.
+Quản lý hộ dân cư (hộ khẩu, nhân khẩu).
+Hỗ trợ tra cứu, tìm kiếm và thống kê các khoản thu.
+
+
+3. Vai trò của các bên liên quan:
+Ban quản trị chung cư: Người trực tiếp quản lý, thu phí và sử dụng phần mềm.
+Hộ dân cư: Đối tượng đóng phí, có thể nhận thông báo từ hệ thống.
+Cơ quan chức năng : Có thể yêu cầu thông tin về nhân khẩu, hộ khẩu khi cần thiết.
+Nhà phát triển phần mềm: Đội ngũ lập trình viên chịu trách nhiệm xây dựng hệ thống.
+
+
+4. Quy trình nghiệp vụ có rõ ràng chưa?
+Quy trình nghiệp vụ tương đối rõ ràng, vì đã có mô tả về cách thu phí hiện tại.
+Tuy nhiên, cần làm rõ một số điểm khi chuyển đổi từ thủ công sang phần mềm:
+Cách thức nhập liệu ban đầu (hộ gia đình, nhân khẩu, thông tin thu phí).
+Xác định quyền truy cập (ai có quyền chỉnh sửa, ai chỉ được xem).
+Cách thông báo thu phí đến hộ dân cư (in phiếu hay gửi qua email?).
+
+5. Kích thước phần mềm:
+Quy mô nhỏ, chỉ áp dụng cho nội bộ Ban quản trị chung cư.
+Phiên bản đầu tiên (v1.0) tập trung vào quản lý thu phí và thông tin hộ dân.
+Phiên bản mở rộng (v2.0) bổ sung thêm quản lý phí gửi xe, điện, nước, internet.
+Đội ngũ lập trình cần thiết:
+
+
+Do phần mềm có quy mô nhỏ, đội ngũ phát triển cần khoảng 3 - 5 lập trình viên:
+
+
