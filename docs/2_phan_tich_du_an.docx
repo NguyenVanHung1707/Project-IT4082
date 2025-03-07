@@ -1,0 +1,39 @@
+TỔNG HỢP VÀ PHÂN TÍCH DỮ LIỆU DỰ ÁN QUẢN LÝ THU PHÍ CHUNG CƯ BLUEMOON
+1. Thông tin chung
+Tên dự án: Phần mềm quản lý thu phí chung cư BlueMoon
+Nhà tài trợ dự án: Ban quản trị chung cư BlueMoon
+Đơn vị thực hiện: Nhóm phát triển phần mềm
+Phạm vi của dự án:
+Ứng dụng desktop hỗ trợ Ban quản trị chung cư trong việc quản lý thu phí.
+Quản lý các khoản phí bắt buộc và tự nguyện của cư dân chung cư.
+Cung cấp khả năng tra cứu, tìm kiếm và thống kê tình hình thu phí.
+Quản lý thông tin hộ gia đình và nhân khẩu đang sinh sống tại chung cư.
+Đảm bảo tính bảo mật với hệ thống đăng nhập và phân quyền.
+2. Hoàn cảnh ra đời của dự án
+Hiện tại Ban quản trị chung cư BlueMoon quản lý thu phí bằng phương pháp thủ công kết hợp Excel, gây khó khăn trong việc theo dõi, tổng hợp và báo cáo dữ liệu.
+Việc xây dựng một phần mềm giúp quản lý thu phí hiệu quả hơn, tiết kiệm thời gian, giảm thiểu sai sót, nâng cao tính minh bạch và thuận tiện cho cư dân.
+3. Mục tiêu của dự án
+Tối ưu hóa quy trình thu phí: Hỗ trợ quản lý và cập nhật thông tin thu phí một cách nhanh chóng, chính xác.
+Hỗ trợ quản lý thông tin cư dân: Cung cấp dữ liệu về hộ gia đình, nhân khẩu phục vụ cho công tác quản lý.
+Cải thiện khả năng tra cứu và thống kê: Cho phép Ban quản trị theo dõi tình hình thu phí theo từng hộ gia đình, từng thời gian.
+Đảm bảo bảo mật và phân quyền: Chỉ Ban quản trị mới có quyền truy cập vào hệ thống quản lý.
+4. Các bên liên quan
+Ban quản trị chung cư BlueMoon: Đơn vị trực tiếp sử dụng và quản lý hệ thống.
+Cư dân chung cư: Người đóng các khoản phí và có thể nhận thông báo về tình trạng đóng phí.
+Nhóm phát triển phần mềm: Đơn vị chịu trách nhiệm thiết kế, phát triển, triển khai và bảo trì phần mềm.
+Các cơ quan chức năng: Cơ quan chính quyền địa phương có thể yêu cầu trích xuất thông tin liên quan đến cư dân khi cần thiết.
+5. Các chức năng chính của dự án
+Phiên bản 1.0
+Quản lý thông tin các khoản thu phí và đóng góp.
+Quản lý thu phí theo hộ gia đình.
+Tra cứu, tìm kiếm và thống kê các khoản thu.
+Quản lý thông tin hộ gia đình và nhân khẩu.
+Quản lý tài khoản, đăng nhập và đổi mật khẩu.
+Phiên bản 2.0 (Mở rộng)
+Quản lý phí gửi xe hàng tháng.
+Quản lý thu hộ phí điện, nước, internet.
+6. Một số lưu ý đặc thù
+Phần mềm được phát triển dưới dạng ứng dụng desktop sử dụng Java.
+Dữ liệu được lưu trữ tập trung trên MySQL Server.
+Cần đảm bảo tính bảo mật, sao lưu dữ liệu thường xuyên để tránh mất mát.
+Hệ thống cần dễ sử dụng để phù hợp với đối tượng quản lý không chuyên về công nghệ.
