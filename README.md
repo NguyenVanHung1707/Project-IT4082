@@ -99,7 +99,7 @@ npm start
 
 > 💼 LinkedIn: https://www.facebook.com/NguyenVanHung.1707/
 
-> 🚀 Dự án được phát triển bởi nhóm 11 – Trường Đại học Bách khoa Hà Nội
+> 🚀 Dự án được phát triển bởi nhóm 20 – Trường Đại học Bách khoa Hà Nội
 
 Nguyễn Văn Hưng	  20225634
 
