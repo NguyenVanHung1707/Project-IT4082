@@ -56,18 +56,7 @@ export const Routes = [
                         path: '/phi-va-quy',
                         element: <FeeAndFund />
                     },
-                    {
-                        path: '/lop-hoc',
-                        element: <ClassRoom />,
-                    },
-                    {
-                        path: '/lop-hoc/them-lop-thu-cong',
-                        element: <ClassHand />
-                    },
-                    {
-                        path: '/lop-hoc/them-lop-tu-ehust',
-                        element: <ClassCreateEhust />
-                    }
+                    
                 ]
             }
         ]
