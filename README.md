@@ -86,6 +86,31 @@ npm start
 > *Thêm hình ảnh minh họa giao diện tại đây nếu có*
 
 ---
+![image](https://github.com/user-attachments/assets/a1cf2549-0866-4b43-9aad-bf2f284c5532)
+![image](https://github.com/user-attachments/assets/302a41df-331b-4bdf-a1ef-96e7bcb3ac7b)
+![image](https://github.com/user-attachments/assets/0007788a-5f57-4151-8990-334e8841f051)
+![image](https://github.com/user-attachments/assets/f4df8331-bb58-4887-a163-cb525648d4ab)
+
+
+---
+
+## 📬 Liên hệ
+
+> 📧 Email: hungnguyen.170704@gmail.com
+
+> 💼 LinkedIn: https://www.facebook.com/NguyenVanHung.1707/
+
+> 🚀 Dự án được phát triển bởi nhóm 11 – Trường Đại học Bách khoa Hà Nội
+
+Nguyễn Văn Hưng	  20225634
+
+Tạ Duy Lâm	      20225729
+
+Trần Doãn Huy  	  20225859
+
+Võ Anh Khôi	      20225870
+
+Nguyễn Quốc Khánh	20225866
 
 
 
