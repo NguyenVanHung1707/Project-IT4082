@@ -83,8 +83,6 @@ npm start
 
 ## 📷 Giao diện (Demo)
 
-> *Thêm hình ảnh minh họa giao diện tại đây nếu có*
-
 ---
 ![image](https://github.com/user-attachments/assets/a1cf2549-0866-4b43-9aad-bf2f284c5532)
 ![image](https://github.com/user-attachments/assets/302a41df-331b-4bdf-a1ef-96e7bcb3ac7b)
